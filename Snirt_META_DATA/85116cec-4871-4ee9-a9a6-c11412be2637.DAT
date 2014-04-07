@@ -6,11 +6,20 @@
   <EmailDisplayName>MeticulonTraining1</EmailDisplayName>
   <EmailAddress />
   <IsDefault>false</IsDefault>
-  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADVSURBVHhe7dAxAQAwEAOh+jedWvjbQQJvnMkKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyzrYPLcPBnTODq+8AAAAASUVORK5CYII=</HeadShotBitmap>
+  <HeadShotBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOwgAADsIBFShKgAAAANVJREFUeF7t0DEBADAQA6H6N51a+NtBAm+cyQpkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbICWYGsQFYgK5AVyApkBbLOtg8tw8GdM4Or7wAAAABJRU5ErkJggg==</HeadShotBitmap>
   <Comments />
   <MergeConflicts />
   <Follows />
-  <FileVersionCommitExtensions />
+  <FileVersionCommitExtensions>
+    <FileVersionCommitExtension>
+      <DocumentPath>C:\Users\Admin\Documents\2014-03-27 MeticulonTraining1\testsubfolder\wab.exe</DocumentPath>
+      <CommitComment />
+      <CommitDateTime>2014-04-07T11:03:34</CommitDateTime>
+      <CommitId>4944a93a62725d1af8d086506ca6f9f656cc1bc4</CommitId>
+      <DocumentThumbnailBitmap>iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAIAAAD/gAIDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADVSURBVHhe7dAxAQAwEAOh+jedWvjbQQJvnMkKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyAlmBrEBWICuQFcgKZAWyzrYPLcPBnTODq+8AAAAASUVORK5CYII=</DocumentThumbnailBitmap>
+      <UserId>85116cec-4871-4ee9-a9a6-c11412be2637</UserId>
+    </FileVersionCommitExtension>
+  </FileVersionCommitExtensions>
   <CurrentFilterCriteria>
     <Following>false</Following>
     <Collaborators />
